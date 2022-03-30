@@ -1,0 +1,85 @@
+body {
+    text-align: center;
+}
+
+#upper-div-image {
+    width: 250px;
+    border: 5px double #0f00e6;
+    border-radius: 100%;
+    margin: 90px;
+    height: 350px;
+}
+
+hr {
+    color: black;
+    background-color: black;
+}
+
+.upper-div {
+    background-color: #7ae0d3;
+    border: 2px solid rgb(7, 7, 1);
+    width: 1400px;
+    height: 700px;
+    margin: auto;
+}
+
+#upper-div {
+    width: 100px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 200px;
+    align-items: flex-end;
+    background-color: rgb(250, 230, 207);
+    border: 2px solid rgb(7, 7, 1);
+    justify-content: space-around;
+    width: 1700px;
+    height: 300px;
+    margin: auto;
+}
+
+.item {
+    width: 48%;
+    height: 100px;
+    margin-bottom: 2%;
+}
+
+#item1 {
+    height: 30%;
+    background-color: rgb(156, 194, 199);
+    border: 1px solid rgb(7, 7, 1);
+    text-align: center;
+    justify-content: center;
+}
+
+#item2 {
+    height: 30%;
+    background-color: rgb(184, 223, 186);
+    border: 1px solid rgb(7, 7, 1);
+    text-align: center;
+    justify-content: center;
+}
+
+#item3 {
+    height: 30%;
+    background-color: rgb(206, 146, 146);
+    border: 1px solid rgb(7, 7, 1);
+    text-align: center;
+    justify-content: center;
+}
+
+#item4 {
+    height: 30%;
+    background-color: rgb(233, 202, 225);
+    border: 1px solid rgb(7, 7, 1);
+    text-align: center;
+    justify-content: center;
+}
